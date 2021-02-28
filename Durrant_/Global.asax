@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.vb" Inherits="Durrant_.Global_asax" Language="VB" %>
