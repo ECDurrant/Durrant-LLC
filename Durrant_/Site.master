@@ -1,4 +1,6 @@
-<%@ Master Language="VB" AutoEventWireup="true" CodeFile="~/Site.master.vb" Inherits="SiteMaster" %>
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Site.Master.vb" Inherits="Durrant_.SiteMaster" %>
+
+<%--<%@ Master Language="VB" AutoEventWireup="true" CodeFile="~/Site.master.vb" Inherits="SiteMaster" %>--%>
 
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
